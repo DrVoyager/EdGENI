@@ -27,3 +27,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 * Once you are connected to VMs, feel free to try our [Labs](Labs/) which contains experiments, covering topics of cybersecurity such as ARP Poisoning, Privilege Escalation, Denial of Service, Nmap Enumeration, Password CTF and blockchain such as Smart Contract.
+
+## Getting Started with PuTTY Connect
+PuTTY Connect is an application developed to automate the PuTTY application setup process. This tutorial document [PuTTYConnect_Guide](PuTTY_Connect/PuTTYConnect_Guide.docx) will provide a walkthrough for using PuTTY Connect application in order to setup CLI and GUI on a machine hosted on GENI infrastructure. If you feel it will be easier to go through tutorial video rather than going through the instructions, feel free to go through the following video:
+
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=0mwEWyg-oDE
+" target="_blank"><img src="http://img.youtube.com/vi/0mwEWyg-oDE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
