@@ -8,6 +8,8 @@
 * It introduces a client application, *PuTTY Connect*, to simplify making VM connections. Putty Connect improve the user experience and extend the user base of GENI, thus delivering a generalized experiment platform for computer education. 
 * It also includes a series of experiments, covering topics of cybersecurity and blockchain. These labs are suitable for a wide range of students, from entry-level students who are unfamiliar with command-line interface to advanced students who are interested in sophisticated network attacks and preventions. 
 
+For technical details, please check our paper: Yongzhi Wang, Wen-Jung Hsin, and Manish Lamsal. 2022. EdGENI: Making GENI User-Friendly for General Computer Education. In Proceedings of the 53rd ACM Technical Symposium V.1 on Computer Science Education (SIGCSE 2022). Association for Computing Machinery, New York, NY, USA, 801–807. DOI:https://doi.org/10.1145/3478431.3499300
+
 ## Getting Started with Labs
 * To get started with the labs, you will need to register a GENI user account, generate your SSH keys, and Join the GENI Project. You can find the instructions to perform those tasks within [Setup User](Environment%20Setup/1-Setup-User.docx).
 * Furthuremore, you will also need to create a lab environment on GENI. You can find the instructions within [Setup Lab](Environment%20Setup/2-Setup-Lab.docx).
@@ -34,3 +36,26 @@ PuTTY Connect is an application developed to automate the PuTTY application setu
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=0mwEWyg-oDE
 " target="_blank"><img src="http://img.youtube.com/vi/0mwEWyg-oDE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+## Labs We Support So Far:
+
+### Cybersecurity
+* Symmetric Encryption and Hash
+* Public Key Encryption
+* Privilege Escalation
+* WebGoat - HTTP Tutorials
+* WebGoat - Web Security
+* Password CTF
+* Nmap Enumeration
+* Denial of Service
+* APR Poisoning
+
+### Blockchain and Smart Contract
+* Metamask Setup
+* RedSo Blockchain Demo
+* Solidity and Remix IDE
+* Lottery Contract with injected Web3
+* Contract Deployment
+* Interacting and Observing Lottery Contract
+* Build Interactice Frontend of Lottery Contract
+
